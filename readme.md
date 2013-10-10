@@ -6,6 +6,8 @@
 ###Description
 This is a Construct 2 Game Starter Kit for Windows 8 and Windows Phone. 
 
+![Screenshot][1]
+
 ###Requirements
 What do you need to run this project?
 
@@ -14,5 +16,6 @@ What do you need to run this project?
  - [Visual Studio 2012][3]
 
 
+  [1]: https://raw.github.com/wingamekits/SoundBoardSouthparkEdition/master/SoundBoardScreenShot.PNG
   [2]: https://www.scirra.com/
   [3]: http://www.microsoft.com/visualstudio/eng/downloads
